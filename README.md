@@ -1,6 +1,5 @@
 # Console-game
 
-<video src="https://www.youtube.com/watch?v=CtmQtyDMEEY" width="320" height="200" controls preload></video>
 
 This is a small ASCII console game developed in C++ using MS visual studio 2017. The entire concept and game design is from 3D buzz.... I however build my own algorithms to have a similar game from ground up. The whole concept has been an experiment! and hopefully it runs very well on your machine!
 
