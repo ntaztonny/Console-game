@@ -1,0 +1,3 @@
+﻿  gameLoop.cpp
+c:\users\sasha\desktop\tests\consolegame\consolegame\consolegame\gameloop.cpp(17): warning C4309: 'argument': truncation of constant value
+  ConsoleGame.vcxproj -> C:\Users\Sasha\Desktop\tests\ConsoleGame\ConsoleGame\Debug\ConsoleGame.exe
