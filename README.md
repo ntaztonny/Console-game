@@ -13,6 +13,6 @@ The level comprises of the game play environment and is controlled by the level 
 
 A simple AI function is created in the enemy class to track the player's position and move towards him. The AI also randomly can help the enemy to avoid the bullets fired from the player.
 
-The player(in the character class) gets input from the keyboard (W, A, S, D) to move in the respective direction. The goal of the player is to run from the player as fast as he can. If he also has a perfect chance, he can shoot and kill the enemy.
+The player(in the character class) gets input from the keyboard (W, A, S, D) to move in the respective direction. The goal of the player is to run from the enemy as fast as he can. If he also has a perfect chance, he can shoot and kill the enemy.
 
 Hope you enjoy testing out the project!
