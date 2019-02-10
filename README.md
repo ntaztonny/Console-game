@@ -1,8 +1,10 @@
 # Console-game
 
+## Video
+
 [![vlcsnap-2019-02-10-10h23m41s399](https://user-images.githubusercontent.com/8284699/52531979-094fbc00-2d1e-11e9-9444-84bef0a8df6b.png)](https://drive.google.com/open?id=1yP540PzOtkcgXA2jWglmGom61g3GFsaf)
 
-
+## About project
 This is a small ASCII console game developed in C++ using MS visual studio 2017. The entire concept and game design is from 3D buzz.... I however build my own algorithms to have a similar game from ground up. The whole concept has been an experiment! and hopefully it runs very well on your machine!
 
 The project consists of a Level, draw engine, player, enemy, and fireball classes that are inter-related and interact with each other.
