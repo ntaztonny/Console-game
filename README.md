@@ -2,7 +2,7 @@
 
 Please find my test on:
 https://drive.google.com/open?id=1XOUySM_lNC_eH8ywwf06MTvjLdhf8TM3
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://drive.google.com/open?id=1yP540PzOtkcgXA2jWglmGom61g3GFsaf)
+[![Watch the video](https://https://drive.google.com/open?id=1yP540PzOtkcgXA2jWglmGom61g3GFsaf/maxresdefault.jpg)](https://drive.google.com/open?id=1yP540PzOtkcgXA2jWglmGom61g3GFsaf)
 
 
 This is a small ASCII console game developed in C++ using MS visual studio 2017. The entire concept and game design is from 3D buzz.... I however build my own algorithms to have a similar game from ground up. The whole concept has been an experiment! and hopefully it runs very well on your machine!
